@@ -1,7 +1,7 @@
 # Library-Management-System
 Designed a library management system Using PHP and MySql
 
-The Library Mangement System was developed as an academic project demonstrating the application of the understanding of the concepts of Web Development and Database Management System.
+The Library Mangement System was developed as an academic project demonstrating the application of the concepts of Web Development and Database Management Systems.
 
 The system was designed and tested on PHP 7.2.4 and phpMyAdmin version 4.8.0.
 The project uses bootstrap to implement styling in the pages.
